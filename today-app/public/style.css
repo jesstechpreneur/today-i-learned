@@ -5,7 +5,7 @@
   padding: 0;
 }
 /* Frame */
-.container {
+#root {
   max-width: 1500px;
   margin: 0 auto;
 }
